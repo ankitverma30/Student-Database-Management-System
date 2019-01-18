@@ -1,2 +1,2 @@
 # Student-Database-Management-System
-Student Database Management System for colleges 
+Student Database Management System for college
