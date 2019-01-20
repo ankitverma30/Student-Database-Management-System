@@ -24,3 +24,11 @@ Student Database Management System for college can be used to maintain the marks
 
 #### Teacher Module
 ![alt homepage](https://ankitverma30.github.io/Student-Database-Management-System/Teacher-Record.png)
+
+
+#### Student Module
+![alt homepage](https://ankitverma30.github.io/Student-Database-Management-System/Student-Login.png)
+  
+  
+  #### Sign Up for Student Module
+  ![alt homepage](https://ankitverma30.github.io/Student-Database-Management-System/Student-details.png)
